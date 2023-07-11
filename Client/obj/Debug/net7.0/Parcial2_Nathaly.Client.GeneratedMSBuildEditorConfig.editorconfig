@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Parcial2_Nathaly.Client
 build_property.RootNamespace = Parcial2_Nathaly.Client
-build_property.ProjectDir = C:\Users\natha\Parcial2_Nathaly\Client\
+build_property.ProjectDir = c:\Users\natha\Parcial2_Nathaly\Client\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\natha\Parcial2_Nathaly\Client
+build_property.MSBuildProjectDirectory = c:\Users\natha\Parcial2_Nathaly\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/natha/Parcial2_Nathaly/Client/App.razor]
+[c:/Users/natha/Parcial2_Nathaly/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natha/Parcial2_Nathaly/Client/Pages/Index.razor]
+[c:/Users/natha/Parcial2_Nathaly/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natha/Parcial2_Nathaly/Client/Pages/Registros/R_Entradas.razor]
+[c:/Users/natha/Parcial2_Nathaly/Client/Pages/Registros/R_Entradas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9zXFJfRW50cmFkYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natha/Parcial2_Nathaly/Client/Shared/SurveyPrompt.razor]
+[c:/Users/natha/Parcial2_Nathaly/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natha/Parcial2_Nathaly/Client/_Imports.razor]
+[c:/Users/natha/Parcial2_Nathaly/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/natha/Parcial2_Nathaly/Client/Shared/MainLayout.razor]
+[c:/Users/natha/Parcial2_Nathaly/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-fanmq10rrd
 
-[C:/Users/natha/Parcial2_Nathaly/Client/Shared/NavMenu.razor]
+[c:/Users/natha/Parcial2_Nathaly/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-02t0r8eflu
