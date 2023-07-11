@@ -7,10 +7,10 @@ public class EntradasDetalle
     public int DetalleId { get; set; }
 
      [ForeignKey("EntradaId")]
-    public Entradas? EntradaId { get; set; }
+    public int EntradaId { get; set; }
 
      [ForeignKey("ProductoId")]
-    public Productos? ProductoId { get; set; }
+    public int ProductoId { get; set; }
 
     [Required (ErrorMessage = "La cantidad utilizada es obligatoria")]
     public int CantidadUtilizada { get; set; }
