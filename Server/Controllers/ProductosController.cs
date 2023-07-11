@@ -60,6 +60,24 @@ using Microsoft.EntityFrameworkCore;
             return Ok(Productos);
         }
 
+        [HttpDelete("{ProductoId}")]
+        public async Task<IActionResult> Eliminar(int ProductoId)
+        {
+            if(_context.Productos == null)
+            {
+                return NotFound();
+            }
+            var Productos = await _context.Productos.FindAsync(ProductoId);
+            if(Productos == null)
+            {
+                return NotFound();
+            }
+
+            _context.Productos.Remove(Productos);
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+
         
     }
     
