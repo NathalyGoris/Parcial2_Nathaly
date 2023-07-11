@@ -1,14 +1,15 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 public class EntradasDetalle
 {
     [Key]
     public int DetalleId { get; set; }
 
-    [Required (ErrorMessage = "El Id de la entrada es obligatorio")]
+     [ForeignKey("EntradaId")]
     public Entradas? EntradaId { get; set; }
 
-    [Required (ErrorMessage = "El Id del producto es obligatorio")]
+     [ForeignKey("ProductoId")]
     public Productos? ProductoId { get; set; }
 
     [Required (ErrorMessage = "La cantidad utilizada es obligatoria")]

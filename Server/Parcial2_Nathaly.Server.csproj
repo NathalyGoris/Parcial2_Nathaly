@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="7.0.5" />
     <PackageReference Include="microsoft.entityframeworkcore.sqlite" Version="7.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameWorkCore.SqlServer" Version="7.0.8" />
     <PackageReference Include="microsoft.entityframeworkcore.tools" Version="7.0.8">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
